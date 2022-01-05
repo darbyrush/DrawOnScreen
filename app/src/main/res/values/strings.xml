@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrawOnScreen</string>
+    <string name="ongoing_notification_text">Have fun!</string>
+    <string name="notification_channel_name">A notification channel</string>
+    <string name="permission_prompt_message">Enable Draw Over Other Apps permission to continue.</string>
+    <string name="ok">understood</string>
+    <string name="ongoing_notification_title">I like to do drawing</string>
+</resources>
